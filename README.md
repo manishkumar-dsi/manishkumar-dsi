@@ -8,12 +8,8 @@ Technologies, I know:
 
 ## Contact me:
 
-<a href="https://twitter.com/manish_dsi">
-  ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-</a>
-<a href="https://www.linkedin.com/in/manish-kumar-profile/">
-  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-</a>
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/manish_dsi)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-kumar-profile/)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=manishkumar-dsi.manishkumar-dsi)
 
