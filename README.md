@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Manish, a passionate Full Stack Developer and Technical Lead at Siemens Gamesa Renewable Energy Pvt Ltd.
+I am Manish, a passionate Full Stack Developer and Technical Lead/Product owner at Siemens Gamesa Renewable Energy Pvt Ltd.
 
 Technologies, I work with:
 
